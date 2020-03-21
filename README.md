@@ -16,3 +16,5 @@ Our robot uses process trendlines and uses Ichimoku, RSI and Momentum as well as
 Using powerful technical and Funda analytical tools has generated a 95% gain in the system, whether it is downtrend or uptrend.
 
 You can test this robot for a month without depositing whith the unrealistic 0.1 bitcoin that the robot will give you, and if you want to invest, you can deposit up to a maximum of bitcoin(up to 100 bitcoins) or the equivalent of ethereum or tether or any coin of our systems. you can Change the bitcoin and you can select the desired currency when withdrawal.
+
+Telegram channel : https://t.me/RoboUpTrend
