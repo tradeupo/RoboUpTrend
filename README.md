@@ -1,6 +1,6 @@
 💎 A smart robot trade that will leverage and without leverage (of your choice) and earn only 8% profit of your profit from each trade. And if your trade rarely stop limit, you will be reimbursed for loss in subsequent trades by not receiving a 8% commission.
 
-ً🚨 Warning: Our company is operating under the FATF rules and restricted countries cannot use this robot's features
+🚨 Warning: Our company is operating under the FATF rules and restricted countries cannot use this robot's features
 Limited countries: North Korea and Iran
 
 Our robot uses process trendlines and uses Ichimoku, RSI and Momentum as well as a proprietary template. We will always apply the overall market and Funda trends to the robot to maximize returns.
