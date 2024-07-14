@@ -8,7 +8,7 @@ Our robot uses process trendlines and uses Ichimoku, RSI and Momentum as well as
 
 ✅ safe
 
-✅ powerful 
+✅ powerful  
  
 ✅ smart
  
