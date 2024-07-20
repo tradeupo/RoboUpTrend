@@ -9,7 +9,7 @@ Our robot uses process trendlines and uses Ichimoku, RSI and Momentum as well as
 ✅ safe
 
 ✅ powerful  
- 
+  
 ✅ smart
  
 Using powerful technical and Funda analytical tools has generated a 95% gain in the system, whether it is downtrend or uptrend.
